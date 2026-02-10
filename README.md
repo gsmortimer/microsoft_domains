@@ -1,7 +1,7 @@
 # microsoft_domains
 A collection of microsoft domains and endpoints
 
-# cloud.microsoft
+# cloud.microsoft - Modern service perimeter namespace
 
 | domain | name | notes |
 | ------ | ---- | ----- |
@@ -19,17 +19,17 @@ A collection of microsoft domains and endpoints
 | visio.cloud.microsoft	| Microsoft Visio 365 app | redirects to m365.cloud.microsoft/visio |
 | orgexplorer.cloud.microsoft	| | Does not resolve |
 | designer.cloud.microsoft | Microsoft Create 365 app? | redirects to m365.cloud.microsoft/create |
-oneltia.cloud.microsoft	
-glint.cloud.microsoft		
+oneltia.cloud.microsoft	| | Does not resolve |
+glint.cloud.microsoft	| Viva Glint 365 app | |
 immersivereader.cloud.microsoft	
-connectivity-test.cloud.microsoft
-activelearning.cloud.microsoft	
-skills.cloud.microsoft	
-pulse.cloud.microsoft	
-create.cloud.microsoft	
-setup.cloud.microsoft	
-places-sdf.cloud.microsoft	
-outlook-sdf.cloud.microsoft	
+connectivity-test.cloud.microsoft | Connectiviety test domain | serves an empty gif|
+activelearning.cloud.microsoft	| unknown | serves a JSON error |
+skills.cloud.microsoft | Skills 365 app | Skills is a new AI-powered service in Microsoft 365 to help you grow your career. This service also provides leaders in your organization with insights on employee skills. Skills is currently in private preview and will be adding personalized experiences throughout Microsoft 365 to help you connect with others and career opportunities. |
+pulse.cloud.microsoft	| Viva Pulse 365 App | Internal surveys and feetback |
+create.cloud.microsoft	| Microsoft Create 365 app? |
+setup.cloud.microsoft	| ? | redirects to MS365 marketing page |
+places-sdf.cloud.microsoft | Places 365 App | Service Development Fabric domain - Microsoft internal testing/staging
+outlook-sdf.cloud.microsoft	| Outlook 365 App | Service Development Fabric domain - Microsoft internal testing/staging
 admin.cloud.microsoft	
 excel.cloud.microsoft	
 goals.cloud.microsoft	
