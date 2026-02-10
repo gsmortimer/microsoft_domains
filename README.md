@@ -6,6 +6,7 @@ A collection of microsoft domains and endpoints
 Variants:
 
 | domain | description |
+| ------ | ----------- |
 | *-ppe.cloud.microsoft | Pre-production Environment (Test & Eval) |
 | *-int.cloud.microsoft | integration |
 | *-sh.cloud.microsoft | Shared Hosting |
