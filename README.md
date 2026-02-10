@@ -1,6 +1,11 @@
 # microsoft_domains
 A collection of microsoft domains and endpoints
 
+# sharepoint.com - Sharepoint and Onedrive
+
+[tennant]-my.sharepoint.com
+
+
 # cloud.microsoft - Modern service perimeter namespace
 
 Variants:
